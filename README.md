@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hola, soy Iván Mesa Domínguez
 
-<!--
-**IvnMD/IvnMD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Profesional con más de 15 años de experiencia en dirección comercial y gestión empresarial, actualmente en transición al sector tecnológico como Desarrollador de Software.
 
-Here are some ideas to get you started:
+💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM), con base sólida en programación, estructuras de datos y bajo nivel, combinando visión de negocio, automatización y tecnología.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Perfil Profesional
+
+- Director de Ventas y Gestión Comercial en sector automoción
+- Experiencia real en CRM (Salesforce), procesos comerciales y financiación
+- Formación técnica en desarrollo de software
+- Enfoque práctico: tecnología aplicada a negocio y productividad
+
+---
+
+## 🧠 Tecnologías y Lenguajes
+
+- **Lenguajes:** Java, C++, HTML/CSS, Ensamblador
+- **Conceptos:** POO, estructuras de datos, algoritmos, bajo nivel
+- **Herramientas:** Salesforce, Git, GitHub, Microsoft Office, Google Workspace, LibreOffice
+- **IA aplicada:** productividad, automatización y apoyo a decisiones
+
+---
+
+## 📂 Proyectos Destacados
+
+
+
+---
+
+## 🎯 Qué busco
+
+Oportunidades como:
+- Prácticas DAM
+- Proyectos donde aportar visión técnica + negocio
+-  Desarrollador Junior / Trainee
+
+📫 **Contacto:**  
+- LinkedIn: [tu enlace]  ](https://www.linkedin.com/in/iv%C3%A1n-mesa-dom%C3%ADnguez-4a5336333/)
+- Email: ivan.mesa.dominguez@gmail.com
