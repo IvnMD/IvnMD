@@ -1,3 +1,6 @@
+![Header](IvnMD_Github_Header.jpg)
+
+
 # 👋 Hola, soy Iván Mesa Domínguez
 
 🎯 Profesional con más de 15 años de experiencia en dirección comercial y gestión empresarial, actualmente en transición al sector tecnológico como Desarrollador de Software.
