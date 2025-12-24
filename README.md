@@ -41,5 +41,5 @@ Oportunidades como:
 -  Desarrollador Junior / Trainee
 
 📫 **Contacto:**  
-- LinkedIn: [Ivan Mesa](https://www.linkedin.com/in/iv%C3%A1n-mesa-dom%C3%ADnguez-4a5336333/)
+- LinkedIn: [Ivan Mesa](https://www.linkedin.com/in/ivanmesadominguez/)
 - Email: ivan.mesa.dominguez@gmail.com
