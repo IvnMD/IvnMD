@@ -1,47 +1,145 @@
 ![Header](IvnMD_Github_Header.jpg)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IvnMD&show_icons=true&theme=tokyonight&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvnMD&layout=compact&theme=tokyonight)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IvnMD&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvnMD&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
 
 # 👋 Hola, soy Iván Mesa Domínguez
 
-🎯 Profesional con más de 15 años de experiencia en dirección comercial y gestión empresarial, actualmente en transición al sector tecnológico como Desarrollador de Software.
+🎯 **Profesional con más de 15 años de experiencia** en dirección comercial y gestión empresarial, actualmente en **transición al sector tecnológico** como Desarrollador de Software.
 
-💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM), con base sólida en programación, estructuras de datos y bajo nivel, combinando visión de negocio, automatización y tecnología.
+💻 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en la Universidad de La Laguna, con base sólida en programación, estructuras de datos y desarrollo bajo nivel, combinando **visión de negocio, automatización y tecnología**.
 
 ---
 
 ## 🚀 Perfil Profesional
 
-- Director de Ventas y Gestión Comercial en sector automoción
-- Experiencia real en CRM (Salesforce), procesos comerciales y financiación
-- Formación técnica en desarrollo de software
-- Enfoque práctico: tecnología aplicada a negocio y productividad
+```plaintext
+📊 Director de Ventas y Gestión Comercial en sector automoción
+🔧 Experiencia real en CRM (Salesforce), procesos comerciales y financiación
+🎓 Formación técnica en desarrollo de software y estructuras de datos
+💡 Enfoque práctico: tecnología aplicada a negocio y productividad
+```
 
 ---
 
-## 🧠 Tecnologías y Lenguajes
+## 🧠 Stack Tecnológico
 
-- **Lenguajes:** Java, C++, HTML/CSS, Ensamblador
-- **Conceptos:** POO, estructuras de datos, algoritmos, bajo nivel
-- **Herramientas:** Salesforce, Git, GitHub, Microsoft Office, Google Workspace, LibreOffice
-- **IA aplicada:** productividad, automatización y apoyo a decisiones
+### Lenguajes de Programación
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
+
+### Conceptos y Paradigmas
+- **Programación Orientada a Objetos (POO)**
+- **Estructuras de Datos y Algoritmos**
+- **Optimización y Teoría de Grafos**
+- **Programación de Bajo Nivel**
+- **Arquitectura de Computadores**
+
+### Herramientas y Tecnologías
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+**Productividad:**
+- Microsoft Office & Google Workspace
+- LibreOffice
+- IA aplicada a productividad y automatización
 
 ---
 
 ## 📂 Proyectos Destacados
 
+### 🌐 [GrafosEnCpp](https://github.com/IvnMD/GrafosEnCpp)
+**Implementación de algoritmos de grafos en C++**
+- ✅ Algoritmos: Kruskal, Prim, Dijkstra, Bellman-Ford, Floyd-Warshall, DFS, BFS, PDM
+- 📊 Estructuras de datos optimizadas (listas de adyacencia)
+- 🎓 Proyecto académico - Asignatura de Optimización (ULL)
+- 🔧 Tecnologías: `C++11` `Algoritmos` `Teoría de Grafos` `STL`
 
+```cpp
+// Ejemplo: Algoritmo de Kruskal optimizado con std::sort
+sort(Aristas.begin(), Aristas.end(), 
+     [](const AristaPesada &a, const AristaPesada &b) {
+         return a.peso < b.peso;
+     });
+```
+
+### 🎮 [Próximos proyectos...]
+- **Aplicaciones Java:** Proyectos con interfaz gráfica y gestión de datos
+- **Desarrollo Web:** Portafolio personal y aplicaciones interactivas
+- **Automatización:** Scripts y herramientas de productividad
+
+---
+
+## 📊 Actividad en GitHub
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IvnMD&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
 ## 🎯 Qué busco
 
-Oportunidades como:
-- Prácticas DAM
-- Proyectos donde aportar visión técnica + negocio
--  Desarrollador Junior / Trainee
+Estoy buscando oportunidades para:
 
-📫 **Contacto:**  
-- LinkedIn: [Ivan Mesa](https://www.linkedin.com/in/ivanmesadominguez/)
-- Email: ivan.mesa.dominguez@gmail.com
+- 🎓 **Prácticas de DAM** - Aplicar conocimientos en entorno real
+- 💼 **Desarrollador Junior / Trainee** - Posiciones entry-level en desarrollo
+- 🤝 **Proyectos colaborativos** - Donde aportar visión técnica + experiencia en negocio
+- 🚀 **Startups tecnológicas** - Combinar desarrollo con estrategia comercial
+
+### 💡 Mi valor diferencial
+```
+Experiencia comercial + Desarrollo técnico = Visión 360º del producto
+```
+
+---
+
+## 📫 Contacto
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanmesadominguez/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivan.mesa.dominguez@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IvnMD)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 "De la gestión comercial al desarrollo de software: donde los datos se convierten en soluciones"
+
+![Profile Views](https://komarev.com/ghpvc/?username=IvnMD&color=blueviolet&style=flat-square)
+
+</div>
+
+---
+
+## 📚 Formación Continua
+
+- 🎓 **Desarrollo de Aplicaciones Multiplataforma** - Universidad de La Laguna (En curso)
+- 📖 Aprendizaje continuo en: Algoritmos, Estructuras de Datos, POO
+- 🤖 Exploración de IA aplicada al desarrollo y la productividad
+- 💻 Práctica constante con proyectos personales y académicos
+
+---
+
+<div align="center">
+
+**⭐ Si mis proyectos te resultan útiles, no dudes en darles una estrella ⭐**
+
+</div>
