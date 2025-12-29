@@ -1,5 +1,7 @@
 ![Header](IvnMD_Github_Header.jpg)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvnMD)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IvnMD&show_icons=true&theme=tokyonight&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvnMD&layout=compact&theme=tokyonight)
 
 # 👋 Hola, soy Iván Mesa Domínguez
 
