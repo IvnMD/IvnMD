@@ -14,7 +14,7 @@
 
 🎯 **Profesional con más de 15 años de experiencia** en dirección comercial y gestión empresarial, actualmente en **transición al sector tecnológico** como Desarrollador de Software.
 
-💻 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en la Universidad de La Laguna, con base sólida en programación, estructuras de datos y desarrollo bajo nivel, combinando **visión de negocio, automatización y tecnología**.
+💻 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, con base sólida en programación, estructuras de datos y desarrollo bajo nivel, combinando **visión de negocio, automatización y tecnología**.
 
 ---
 
