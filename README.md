@@ -132,7 +132,7 @@ Experiencia comercial + Desarrollo técnico = Visión 360º del producto
 
 ## 📚 Formación Continua
 
-- 🎓 **Desarrollo de Aplicaciones Multiplataforma** - Universidad de La Laguna (En curso)
+- 🎓 **Desarrollo de Aplicaciones Multiplataforma** - IES Puerto de la Cruz - Telesforo Bravo (En curso)
 - 📖 Aprendizaje continuo en: Algoritmos, Estructuras de Datos, POO
 - 🤖 Exploración de IA aplicada al desarrollo y la productividad
 - 💻 Práctica constante con proyectos personales y académicos
