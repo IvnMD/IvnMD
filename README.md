@@ -75,6 +75,35 @@ sort(Aristas.begin(), Aristas.end(),
      });
 ```
 
+---
+
+### 💼 [Gestión de Pagos a Proveedores en Google Workspace](https://github.com/IvnMD/GestionDePagosAProveedoresEnGoogleWorkspace)
+**Automatización real para una empresa: de Google Calendar a un dashboard de pagos en Google Sheets**
+
+Desarrollado como solución a un problema real de un cliente que gestionaba manualmente el vencimiento de sus facturas de compra, revisando uno a uno múltiples portales bancarios. El resultado es un script de **Google Apps Script** que centraliza y automatiza todo el proceso.
+
+- 🔄 Sincronización automática entre **Google Calendar** y **Google Sheets**, organizada por mes
+- 📆 Extracción de **fecha**, **importe** y **número de vencimiento** mediante expresiones regulares
+- ✅ Control de estado por factura (`PAGADO / SIN PAGAR`) con formato condicional visual
+- 📊 Tabla resumen con **total a pagar por día**, **total pagado** y **total previsto del mes**
+- 🛡️ Detección de duplicados robusta usando `ev.getId()`, el ID nativo de Google Calendar
+- 🤖 Desarrollado en colaboración con IA (**Claude** + **Gemini**) como herramienta de apoyo en un flujo de *vibe coding*, combinando criterio propio con asistencia en partes técnicas específicas
+- 🔧 Tecnologías: `Google Apps Script` `Google Calendar API` `Google Sheets API` `JavaScript` `RegEx`
+
+```javascript
+// La clave anti-duplicados: ID nativo del evento, inmune a ediciones del título o fecha
+var idEvento = ev.getId();
+if (idsExistentes[idEvento]) {
+  // Actualizar fila existente
+} else {
+  // Insertar nueva fila
+}
+```
+
+> **Versión actual: 3.1** — Proyecto evolucionado en 4 iteraciones a partir de requisitos reales del cliente.
+
+---
+
 ### 🎮 [Próximos proyectos...]
 - **Aplicaciones Java:** Proyectos con interfaz gráfica y gestión de datos
 - **Desarrollo Web:** Portafolio personal y aplicaciones interactivas
