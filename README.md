@@ -4,7 +4,8 @@
 
 <img src="https://github-readme-stats-five-lyart-39.vercel.app" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats-five-lyart-39.vercel.app" alt="Top Languages" />
+<img src="https://github-readme-stats-ivnmds-projects.vercel.app/api/top-langs/?username=IvnMD&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" />
+
 
 
 </div>
