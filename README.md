@@ -1,15 +1,5 @@
 ![Header](IvnMD_Github_Header.jpg)
 
-<div align="center">
-
-<img src="https://github-readme-stats-five-lyart-39.vercel.app" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats-ivnmds-projects.vercel.app/api/top-langs/?username=IvnMD&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" />
-
-
-
-</div>
-
 ---
 
 # 👋 Hola, soy Iván Mesa Domínguez
@@ -116,8 +106,8 @@ if (idsExistentes[idEvento]) {
 ## 📊 Actividad en GitHub
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IvnMD&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Streak" />
+     
+[![GitHub Streak](https://streak-stats.demolab.com?user=IvnMD&theme=neon&locale=es&mode=weekly)](https://git.io/streak-stats)
 
 </div>
 
