@@ -50,6 +50,32 @@
 
 ---
 
+## 🎯 Qué busco
+
+Estoy buscando oportunidades para:
+
+- 🎓 **Prácticas de DAM** - Aplicar conocimientos en entorno real
+- 💼 **Desarrollador Junior / Trainee** - Posiciones entry-level en desarrollo
+- 🤝 **Proyectos colaborativos** - Donde aportar visión técnica + experiencia en negocio
+- 🚀 **Startups tecnológicas** - Combinar desarrollo con estrategia comercial
+
+### 💡 Mi valor diferencial
+```
+Experiencia comercial + Desarrollo técnico = Visión 360º del producto
+```
+
+---
+
+## 📊 Actividad en GitHub
+
+<div align="center">
+     
+[![GitHub Streak](https://streak-stats.demolab.com?user=IvnMD&theme=neon&locale=es&mode=weekly)](https://git.io/streak-stats)
+
+</div>
+
+---
+
 ## 📂 Proyectos Destacados
 
 ### 🌐 [GrafosEnCpp](https://github.com/IvnMD/GrafosEnCpp)
@@ -103,29 +129,12 @@ if (idsExistentes[idEvento]) {
 
 ---
 
-## 📊 Actividad en GitHub
+## 📚 Formación Continua
 
-<div align="center">
-     
-[![GitHub Streak](https://streak-stats.demolab.com?user=IvnMD&theme=neon&locale=es&mode=weekly)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🎯 Qué busco
-
-Estoy buscando oportunidades para:
-
-- 🎓 **Prácticas de DAM** - Aplicar conocimientos en entorno real
-- 💼 **Desarrollador Junior / Trainee** - Posiciones entry-level en desarrollo
-- 🤝 **Proyectos colaborativos** - Donde aportar visión técnica + experiencia en negocio
-- 🚀 **Startups tecnológicas** - Combinar desarrollo con estrategia comercial
-
-### 💡 Mi valor diferencial
-```
-Experiencia comercial + Desarrollo técnico = Visión 360º del producto
-```
+- 🎓 **Desarrollo de Aplicaciones Multiplataforma** - IES Puerto de la Cruz - Telesforo Bravo (En curso)
+- 📖 Aprendizaje continuo en: Algoritmos, Estructuras de Datos, POO
+- 🤖 Exploración de IA aplicada al desarrollo y la productividad
+- 💻 Práctica constante con proyectos personales y académicos
 
 ---
 
@@ -148,15 +157,6 @@ Experiencia comercial + Desarrollo técnico = Visión 360º del producto
 ![Profile Views](https://komarev.com/ghpvc/?username=IvnMD&color=blueviolet&style=flat-square)
 
 </div>
-
----
-
-## 📚 Formación Continua
-
-- 🎓 **Desarrollo de Aplicaciones Multiplataforma** - IES Puerto de la Cruz - Telesforo Bravo (En curso)
-- 📖 Aprendizaje continuo en: Algoritmos, Estructuras de Datos, POO
-- 🤖 Exploración de IA aplicada al desarrollo y la productividad
-- 💻 Práctica constante con proyectos personales y académicos
 
 ---
 
