@@ -118,7 +118,7 @@ if (idsExistentes[idEvento]) {
 }
 ```
 
-> **Versión actual: 3.1** — Proyecto evolucionado en 4 iteraciones a partir de requisitos reales del cliente.
+> **Versión actual: 3.2** — Proyecto evolucionado en 5 iteraciones a partir de requisitos reales del cliente.
 
 ---
 
