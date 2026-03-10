@@ -28,6 +28,8 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 ### Conceptos y Paradigmas
@@ -37,11 +39,25 @@
 - **Programación de Bajo Nivel**
 - **Arquitectura de Computadores**
 
+### Metodologías y Diseño
+- **Metodologías Ágiles** — Nociones de Scrum y Extreme Programming (XP)
+- **Diagramas UML** — Clases, Flujo, Secuencia y Casos de Uso
+
 ### Herramientas y Tecnologías
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Autodesk Fusion](https://img.shields.io/badge/Autodesk%20Fusion-FF7A00?style=for-the-badge&logo=autodesk&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
+![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
+
+**Diseño y Modelado 3D** *(nociones básicas)*:
+- Blender · Autodesk Fusion · SketchUp
+
+**Edición multimedia** *(nociones básicas)*:
+- GIMP · Audacity
 
 **Productividad:**
 - Microsoft Office & Google Workspace
@@ -122,7 +138,42 @@ if (idsExistentes[idEvento]) {
 
 ---
 
-### 🎮 [Próximos proyectos...]
+### 👤 [GestionUsuariosJava](https://github.com/IvnMD/GestionUsuariosJava)
+**Sistema de gestión de usuarios desarrollado en Java**
+- ✅ CRUD completo: crear, leer, actualizar y eliminar usuarios
+- 🏗️ Arquitectura orientada a objetos con separación de capas
+- 💾 Persistencia de datos y validación de entradas
+- 🎓 Proyecto académico — Programación en Java (DAM)
+- 🔧 Tecnologías: `Java` `POO` `Collections` `OOP`
+
+```java
+// Gestión de usuarios con colecciones Java
+public void añadirUsuario(Usuario u) {
+    if (!usuarios.containsKey(u.getId())) {
+        usuarios.put(u.getId(), u);
+    }
+}
+```
+
+---
+
+### 🎮 [DoodleJumpMips32Assembly](https://github.com/IvnMD/DoodleJumpMips32Assembly)
+**Juego Doodle Jump implementado en ensamblador MIPS32**
+- ✅ Lógica de juego completa: movimiento, saltos, colisiones y puntuación
+- 🖥️ Gráficos renderizados en **Bitmap Display** de MARS/SPIM
+- 🧠 Gestión directa de registros, memoria y stack en bajo nivel
+- 🎓 Proyecto académico — Arquitectura de Computadores
+- 🔧 Tecnologías: `MIPS32` `Assembly` `Bitmap Display` `MARS`
+
+```asm
+# Gestión directa de memoria y registros para renderizado
+li $t0, 0x10010000   # base del Bitmap Display
+sw $t1, 0($t0)       # pintar píxel en pantalla
+```
+
+---
+
+### 🔭 [Próximos proyectos...]
 - **Aplicaciones Java:** Proyectos con interfaz gráfica y gestión de datos
 - **Desarrollo Web:** Portafolio personal y aplicaciones interactivas
 - **Automatización:** Scripts y herramientas de productividad
@@ -142,6 +193,7 @@ if (idsExistentes[idEvento]) {
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-07000F?style=for-the-badge&logo=firefox&logoColor=ff2d9b)](https://ivnmd.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanmesadominguez/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivan.mesa.dominguez@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IvnMD)
