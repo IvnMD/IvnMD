@@ -158,6 +158,7 @@ public void añadirUsuario(Usuario u) {
 ---
 
 ### 🎮 [DoodleJumpMips32Assembly](https://github.com/IvnMD/DoodleJumpMips32Assembly)
+#### 🚧EN DESARROLLO 
 **Juego Doodle Jump implementado en ensamblador MIPS32**
 - ✅ Lógica de juego completa: movimiento, saltos, colisiones y puntuación
 - 🖥️ Gráficos renderizados en **Bitmap Display** de MARS/SPIM
