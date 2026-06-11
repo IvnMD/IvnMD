@@ -94,6 +94,19 @@ Experiencia comercial + Desarrollo técnico = Visión 360º del producto
 
 ## 📂 Proyectos Destacados
 
+### 🗺️ [Catálogo de Datos Abiertos de Canarias](https://github.com/IvnMD/Practicas-DAM-Datos-Abiertos)
+**Aplicación web para explorar el ecosistema de datos abiertos y transparencia de las Islas Canarias**
+
+Proyecto de prácticas DAM que centraliza, cataloga y visualiza las entidades canarias que publican datos abiertos, desde cabildos hasta organismos autonómicos.
+
+- 🌐 **Mapa interactivo** de entidades por isla con filtros dinámicos
+- 📊 **Dashboard de estadísticas** con KPIs agregados del ecosistema canario
+- 🔌 **API REST** con filtros por isla, tipo, ámbito, temática y disponibilidad de API
+- 📋 **Catálogo estructurado** en JSON con schema validado (JSON Schema 2020-12)
+- 🐳 Desplegable con Docker en entornos dev y prod
+- 🤝 Contribuciones abiertas: issues, PRs y templates de calidad incluidos
+- 🔧 Tecnologías: `Python 3.9+` `Flask` `Jinja2` `HTML/CSS/JS` `Docker` `JSON Schema`
+
 ### 🌐 [GrafosEnCpp](https://github.com/IvnMD/GrafosEnCpp)
 **Implementación de algoritmos de grafos en C++**
 - ✅ Algoritmos: Kruskal, Prim, Dijkstra, Bellman-Ford, Floyd-Warshall, DFS, BFS, PDM
