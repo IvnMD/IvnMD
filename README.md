@@ -17,6 +17,7 @@
 🔧 Experiencia real en CRM (Salesforce), procesos comerciales y financiación
 🎓 Formación técnica en desarrollo de software y estructuras de datos
 💡 Enfoque práctico: tecnología aplicada a negocio y productividad
+🌍 Prácticas DAM — Canarias Open Data (datos abiertos y transparencia)
 ```
 
 ---
@@ -24,13 +25,25 @@
 ## 🧠 Stack Tecnológico
 
 ### Lenguajes de Programación
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
+
+### Frameworks y Tecnologías
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
+![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 ### Conceptos y Paradigmas
 - **Programación Orientada a Objetos (POO)**
@@ -38,6 +51,8 @@
 - **Optimización y Teoría de Grafos**
 - **Programación de Bajo Nivel**
 - **Arquitectura de Computadores**
+- **Arquitectura por capas · REST API · JSON Schema**
+- **CI/CD con GitHub Actions · Tests con pytest / Maven**
 
 ### Metodologías y Diseño
 - **Metodologías Ágiles** — Nociones de Scrum y Extreme Programming (XP)
@@ -85,7 +100,7 @@ Experiencia comercial + Desarrollo técnico = Visión 360º del producto
 ## 📊 Actividad en GitHub
 
 <div align="center">
-     
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=IvnMD&theme=neon&locale=es&mode=weekly)](https://git.io/streak-stats)
 
 </div>
@@ -94,18 +109,34 @@ Experiencia comercial + Desarrollo técnico = Visión 360º del producto
 
 ## 📂 Proyectos Destacados
 
-### 🗺️ [Catálogo de Datos Abiertos de Canarias](https://github.com/IvnMD/Practicas-DAM-Datos-Abiertos)
+### 🌍 [Catálogo de Datos Abiertos de Canarias](https://github.com/IvnMD/Canarias-Open-Data)
 **Aplicación web para explorar el ecosistema de datos abiertos y transparencia de las Islas Canarias**
 
-Proyecto de prácticas DAM que centraliza, cataloga y visualiza las entidades canarias que publican datos abiertos, desde cabildos hasta organismos autonómicos.
+Proyecto de prácticas DAM para la Universidad de La Laguna (ULL) que centraliza, cataloga y visualiza las entidades canarias que publican datos abiertos, desde cabildos y ayuntamientos hasta organismos autonómicos y nacionales.
 
-- 🌐 **Mapa interactivo** de entidades por isla con filtros dinámicos
+- 🗺️ **Mapa interactivo** de entidades por isla con filtros dinámicos
 - 📊 **Dashboard de estadísticas** con KPIs agregados del ecosistema canario
 - 🔌 **API REST** con filtros por isla, tipo, ámbito, temática y disponibilidad de API
 - 📋 **Catálogo estructurado** en JSON con schema validado (JSON Schema 2020-12)
 - 🐳 Desplegable con Docker en entornos dev y prod
 - 🤝 Contribuciones abiertas: issues, PRs y templates de calidad incluidos
 - 🔧 Tecnologías: `Python 3.9+` `Flask` `Jinja2` `HTML/CSS/JS` `Docker` `JSON Schema`
+
+---
+
+### 🏫 [CentroPlus Connect](https://github.com/IvnMD/centroplus-connect)
+**Plataforma de gestión de un centro académico y deportivo — Proyecto Intermodular 1º DAM**
+
+Aplicación multiplataforma con app de escritorio JavaFX, backend API REST con Spring Boot y web HTML/JS. Arquitectura cliente-servidor completa con base de datos relacional.
+
+- 🖥️ **App de escritorio** en JavaFX 21
+- 🔌 **API REST** con Spring Boot (actividades, usuarios, inscripciones)
+- 🗄️ **Base de datos** SQLite / MariaDB con diagrama ER
+- 🐳 Desplegable con Docker Compose
+- 🏗️ Arquitectura: `App JavaFX → API REST → Servicios → Repositorios → BD`
+- 🔧 Tecnologías: `Java 17` `JavaFX 21` `Spring Boot` `SQLite` `MariaDB` `Maven` `Docker`
+
+---
 
 ### 🌐 [GrafosEnCpp](https://github.com/IvnMD/GrafosEnCpp)
 **Implementación de algoritmos de grafos en C++**
@@ -171,7 +202,7 @@ public void añadirUsuario(Usuario u) {
 ---
 
 ### 🎮 [DoodleJumpMips32Assembly](https://github.com/IvnMD/DoodleJumpMips32Assembly)
-#### 🚧EN DESARROLLO 
+#### 🚧 EN DESARROLLO
 **Juego Doodle Jump implementado en ensamblador MIPS32**
 - ✅ Lógica de juego completa: movimiento, saltos, colisiones y puntuación
 - 🖥️ Gráficos renderizados en **Bitmap Display** de MARS/SPIM
@@ -189,15 +220,18 @@ sw $t1, 0($t0)       # pintar píxel en pantalla
 
 ### 🔭 [Próximos proyectos...]
 - **Aplicaciones Java:** Proyectos con interfaz gráfica y gestión de datos
-- **Desarrollo Web:** Portafolio personal y aplicaciones interactivas
+- **Triple Triad** — Implementación del juego de cartas de Final Fantasy VIII en JavaScript
 - **Automatización:** Scripts y herramientas de productividad
+- **RPG en Python** — Juego de rol por turnos desarrollado en Python
+- **Desarrollo Web:** Portafolio personal y aplicaciones interactivas
+
 
 ---
 
 ## 📚 Formación Continua
 
 - 🎓 **Desarrollo de Aplicaciones Multiplataforma** - IES Puerto de la Cruz - Telesforo Bravo (En curso)
-- 📖 Aprendizaje continuo en: Algoritmos, Estructuras de Datos, POO
+- 📖 Aprendizaje continuo en: Algoritmos, Estructuras de Datos, POO, Python, Flask
 - 🤖 Exploración de IA aplicada al desarrollo y la productividad
 - 💻 Práctica constante con proyectos personales y académicos
 
